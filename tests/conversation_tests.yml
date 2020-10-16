@@ -1,0 +1,51 @@
+version: "2.0"
+stories:
+- story: happy path 1
+  steps:
+  - intent: 'greet: hello there!'
+  - action: utter_greet
+  - intent: 'mood_great: amazing'
+  - action: utter_happy
+- story: happy path 2
+  steps:
+  - intent: 'greet: hello there!'
+  - action: utter_greet
+  - intent: 'mood_great: amazing'
+  - action: utter_happy
+  - intent: 'goodbye: bye-bye!'
+  - action: utter_goodbye
+- story: sad path 1
+  steps:
+  - intent: 'greet: hello'
+  - action: utter_greet
+  - intent: 'mood_unhappy: not good'
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: 'affirm: yes'
+  - action: utter_happy
+- story: sad path 2
+  steps:
+  - intent: 'greet: hello'
+  - action: utter_greet
+  - intent: 'mood_unhappy: not good'
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: 'deny: not really'
+  - action: utter_goodbye
+- story: sad path 3
+  steps:
+  - intent: 'greet: hi'
+  - action: utter_greet
+  - intent: 'mood_unhappy: very terrible'
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: 'deny: no'
+  - action: utter_goodbye
+- story: say goodbye
+  steps:
+  - intent: 'goodbye: bye-bye!'
+  - action: utter_goodbye
+- story: bot challenge
+  steps:
+  - intent: 'bot_challenge: are you a bot?'
+  - action: utter_iamabot
