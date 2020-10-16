@@ -32,7 +32,7 @@
 
 ## faq distancing
 * faq_distancing 
-  - action_faq_distancing
+  - utter_faq_distancing
 
 ## more faq distancing
 * greet
@@ -42,7 +42,7 @@
 
 ## faq spread happy
 * faq_spread
-  - action_faq_spread
+  - utter_faq_spread
   - utter_did_that_help
 * affirm
   - utter_happy
@@ -56,7 +56,7 @@
 
 ## faq symptoms happy
 * faq_symptoms
-  - action_faq_symptoms
+  - utter_symptoms
   - utter_did_that_help
 * affirm
   - utter_happy
