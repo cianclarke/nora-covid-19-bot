@@ -9,25 +9,25 @@ intents:
   - None
   - smalltalk_human
   - faq_distancing
-  - faq_symptoms
+  - faqsymptoms
   - faq_vaccine
   - faq_vulnerable
   - company_open
   - company_wfh
-  - faq_testing
-  - faq_supplies
-  - faq_flu
-  - faq_howmany
-  - company_mitigiation
-  - company_deliveries
-  - faq_masks
-  - faq_timescale
-  - faq_spread
-  - faq_handwashing
-  - faq_curve
-  - faq_whatisit
-  - faq_origin
-  - faq_status
+  - faqtesting
+  - faqsupplies
+  - faqflu
+  - faqhowmany
+  - companymitigiation
+  - companydeliveries
+  - faqmasks
+  - faqtimescale
+  - faqspread
+  - faqhandwashing
+  - faqcurve
+  - faqwhatisit
+  - faqorigin
+  - faqstatus
 
 responses:
   utter_greet:
@@ -60,7 +60,7 @@ responses:
         from coming in close contact with healthy people in order to reduce opportunities for disease transmission. 
         It can include large-scale measures like canceling group events or closing public spaces, as well as individual 
         decisions such as avoiding crowds"
-  utter_faq_spread:
+  utter_faqspread:
   - text: "Take steps to lower your risk of getting sick with COVID-19. Here are some things you should do.
   6 Steps to Prevent COVID-19
   https://www.youtube.com/embed/9Ay4u7OYOhA
@@ -70,9 +70,9 @@ responses:
           
 actions:
 - action_faq_distancing
-- action_faq_spread
-- action_faq_status
-- action_faq_symptoms
+- action_faqspread
+- action_faqstatus
+- action_faqsymptoms
 
     
 session_config:

@@ -99,7 +99,7 @@
 - why should most people isolate?
 - will quarantine work?
 
-## intent:faq_symptoms
+## intent:faqsymptoms
 - am i going to die?
 - am i going to need hospital treatment?
 - are aches a symptom?
@@ -321,7 +321,7 @@
 - who is available while working from home?
 - who is still working?
 
-## intent:faq_testing
+## intent:faqtesting
 - are tests available?
 - are there tests to detect corona?
 - can i have a test even if i don't have symptoms?
@@ -342,7 +342,7 @@
 - who are they testing for corona virus right now?
 - who can get tested?
 
-## intent:faq_supplies
+## intent:faqsupplies
 - are the supermarkets going to run out of food?
 - are the supermarkets going to run out of supplies?
 - can i go to the shops for
@@ -377,7 +377,7 @@
 - will shortages be a problem?
 - will supply chains be affected
 
-## intent:faq_flu
+## intent:faqflu
 - are the symptoms like influenza?
 - how does corona virus compare with a flu outbreak?
 - how does covid-19 compare with influenza?
@@ -402,7 +402,7 @@
 - isn't it just a cold?
 - isn't it just a really bad cold?
 
-## intent:faq_howmany
+## intent:faqhowmany
 - are there a lot of cases right now?
 - does the country have a lot of cases?
 - does the have a lot of cases?
@@ -464,7 +464,7 @@
 - what will you do so the company can recover more quickly?
 - will you business recover?
 
-## intent:company_deliveries
+## intent:companydeliveries
 - are you still able to deliver goods?
 - are you still able to deliver products by post during the pandemic?
 - are you still doing deliveries during the outbreak?
@@ -486,7 +486,7 @@
 - is corona virus affecting your delivery channels?
 - will covid affect your home delivery services?
 
-## intent:faq_masks
+## intent:faqmasks
 - can a mask protect me?
 - can covering my face protect me?
 - do i need to cover my face?
@@ -508,7 +508,7 @@
 - will a mask protect me from the virus
 - will it help to cover my face?
 
-## intent:faq_timescale
+## intent:faqtimescale
 - can a virus change over time?
 - can covid-19 mutate over time?
 - could coronavirus come back in the winter?
@@ -557,7 +557,7 @@
 - will this continue into next winter?
 - will this continue into next year
 
-## intent:faq_spread
+## intent:faqspread
 - can coronavirus spread by coughing?
 - can coronavirus survive on skin?
 - can covid get into my eyes?
@@ -612,7 +612,7 @@
 - why shouldn't i touch my eyes?
 - why shouldn't i touch my face?
 
-## intent:faq_handwashing
+## intent:faqhandwashing
 - can soap help keep the virus off my hands?
 - can soap help with corona virus?
 - do i need to use hand sanitiser?
@@ -636,7 +636,7 @@
 - why do i need to wash my hands
 - why does soap help with containing covid 19?
 
-## intent:faq_curve
+## intent:faqcurve
 - can we prevent spikes in the infection rate?
 - can we reduce the number of cases?
 - how can you slow the infection?
@@ -677,7 +677,7 @@
 - why do you need to slow the infection
 - why should we try to slow the infection?
 
-## intent:faq_whatisit
+## intent:faqwhatisit
 - how are viruses formed?
 - how are viruses structured?
 - how do viruses behave?
@@ -721,7 +721,7 @@
 - what kind of illness is corona virus?
 - why is it called corona virus?
 
-## intent:faq_origin
+## intent:faqorigin
 - how did it start?
 - how did the covid outbreak start?
 - how did the outbreak start?

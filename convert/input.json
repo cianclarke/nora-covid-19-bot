@@ -605,357 +605,357 @@
       },
       {
         "text": "am i going to die?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "am i going to need hospital treatment?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "are aches a symptom?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "are the symptoms serious?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can i still have it but have no symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can people die from contacting covid-19?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can people die from contracting covid-19?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can people die from coronavirus?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can people die from this?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can there be complications from covid-19 symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can you be infected and not show any symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "can you tell me what the symptoms are?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "could i be carrying coronavirus if i don't have symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "does everyone have symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how badly should i be coughing?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how can i identify the symptoms of corona?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how can i tell if i have corona virus?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know i have covid-19?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know i might be a carrier?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know i might have it?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know if i have a high temperature?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know if i have it?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know if i need hospital treatment?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know if i'm a carrier of covid-19?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know if i've caught coronavirus?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how do i know if i've caught it?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how high does my fever have to be for me to go to hospital?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how high is a fever?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how is your body affected by corona?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how long do i have to be sick for before i can go to a clinic?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how long should i have a fever for?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how severe do my symptoms have to be before i go to hospital?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "how would my body feel if i caught the virus?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "i have a fever, do i have corona?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "i'm coughing, what should i do?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "is a symptom?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "is coughing a symptom of the disease?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "is joint pain a symptom?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "should i go to a health centre if i have symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what are the signs and symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what are the signs of corona?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what are the signs of covid-19?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what are the signs?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what are the symptoms?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what counts as a high temperature?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what do aches and pains mean?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what do the symptoms look like?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does a high temperature feel like?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does asymptomatic mean?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does dry cough mean?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does having corona feel like?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does having corona virus feel like?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does having the virus feel like?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does it mean if i'm coughing?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does it mean to be asymptomatic?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does persistent cough mean?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does the virus do to your body?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what does this virus do to the body?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what is a dry cough?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what is a fever?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what is a high temperatures?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what is an asymptomatic carrier?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what is different about a dry cough?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what should i do if i think i have it?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what should i do if i think i might have corona virus?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what signs of covid-19 should i look for?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "what temperature is a fever?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "when do i need to go to a clinic?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "when is a cough persistent?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "when should i go to hospital?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
         "text": "when should i go to the emergency room?",
-        "intent": "faq_symptoms",
+        "intent": "faqsymptoms",
         "entities": []
       },
       {
@@ -1665,487 +1665,487 @@
       },
       {
         "text": "are tests available?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "are there tests to detect corona?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "can i have a test even if i don't have symptoms?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "can i have a test if i think i have coronavirus?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "can i have a test?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "how are they testing people for covid19?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "how can i get tested?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "how do they test for covid-19?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "how do they test someone for covid-19?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "how does testing for corona work?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "how does testing work?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "i think i have coronavirus, should i get a test?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "i think i've got it, should i get a test?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "is there any testing going on?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "when should i get a test?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "when will testing be available?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "where are test available?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "who are they testing for corona virus right now?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "who can get tested?",
-        "intent": "faq_testing",
+        "intent": "faqtesting",
         "entities": []
       },
       {
         "text": "are the supermarkets going to run out of food?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "are the supermarkets going to run out of supplies?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "can i go to the shops for",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "can i go to the shops for that?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "could there be shortages?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "do i need to buy anything?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "do i need to buy more",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "do i need to buy more toilet paper",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "do people need to stockpile?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "i need to buy",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "i need to buy can i go to the shops for that?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "i need to buy more",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "i need to buy more medicine",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "i need to buy more soap",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "i'm worried about supply chains",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "should i stockpile?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "should we be worried about food shortages?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what extra supplies to do i need",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what food should i be stocking up?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what if i need more soap?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what if i run out of soap and need to buy more?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what is panic buying",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what kind of food should i buy?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what should i do if the supermarkets are empty?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what should i do if there's a shortage?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what should i stock up on?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what supplies might there be a shortage of?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what supplies should i stock up on?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what things should i buy",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "what type of food is good for stocking up?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "why are people panic-buying?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "will shortages be a problem?",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "will supply chains be affected",
-        "intent": "faq_supplies",
+        "intent": "faqsupplies",
         "entities": []
       },
       {
         "text": "are the symptoms like influenza?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "how does corona virus compare with a flu outbreak?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "how does covid-19 compare with influenza?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "how does it compare to a cold?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "how is corona different from the flu?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "how is covid-19 different from the flu",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "how is this different from the flu",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is corona a flu?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is corona the same as swine flu?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is coronavirus just a bad cold?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is coronavirus like influenza?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is covid a kind of influenza?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is covid19 a kind of influenza?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is covid-19 like swine flu?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is it like a cold",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is the virus a kind of influenza?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is this caused by h1n1?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is this like the h1n1 outbreak?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is this like the spanish flu?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is this similar to h1n1?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "is this similar to swine flu?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "isn't it just a cold?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "isn't it just a really bad cold?",
-        "intent": "faq_flu",
+        "intent": "faqflu",
         "entities": []
       },
       {
         "text": "are there a lot of cases right now?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "does the country have a lot of cases?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "does the have a lot of cases?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "have many people died due to covid-19?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many cases have there been",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many cases of corona infection have there been?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many deaths have there been?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many fatalities have there been?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many have died due to coronavirus",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many have tested positive?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many people have been infected",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "how many people have tested positive",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "number of cases",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what is the fatality number?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what is the fatality rate?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what is the number of cases",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what is the number of deaths",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what is the number of fatalities?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what is the number of infections?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what number have tested positive?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what number of people have been infected?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
         "text": "what number of people have tested positive?",
-        "intent": "faq_howmany",
+        "intent": "faqhowmany",
         "entities": []
       },
       {
@@ -2330,1302 +2330,1302 @@
       },
       {
         "text": "are you still able to deliver goods?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "are you still able to deliver products by post during the pandemic?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "are you still doing deliveries during the outbreak?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can i order online during the covid-19 outbreak?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can i order online during the outbreak?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can i order your items online?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can i order your products online?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can i receive deliveries without contact?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can you deliver with zero contact?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can you do contact-free deliveries?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can you do deliveries by zero-contact post?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can you send your products in the post?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can you sent items by post?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can you still deliver goods?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "do you provide deliveries to people who are isolating?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "do you provide deliveries?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "how does covid-19 affect home delivery services?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "how will coronavirus affect your home delivery?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "is corona virus affecting your delivery channels?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "will covid affect your home delivery services?",
-        "intent": "company_deliveries",
+        "intent": "companydeliveries",
         "entities": []
       },
       {
         "text": "can a mask protect me?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "can covering my face protect me?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "do i need to cover my face?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "do i need to start covering my face?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "do mask help?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "do masks help stop the spread?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "do masks help to stop covid 19?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "do masks help to stop the spread of corona?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "how can a mask help?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "should i cover my face with a mask?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "should i cover my face?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "what is the right kind of mask to use?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "what kind of mask should i use?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "what type of face-mask do i need?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "what type of mask should i use?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "who needs to use face masks?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "why are people using face masks?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "why is everyone wearing face-masks?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "will a mask protect me from the virus",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "will it help to cover my face?",
-        "intent": "faq_masks",
+        "intent": "faqmasks",
         "entities": []
       },
       {
         "text": "can a virus change over time?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "can covid-19 mutate over time?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "could coronavirus come back in the winter?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "could covid19 return in the autumn?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "could this still be going on next year?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how does a pandemic progress?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how does a viral outbreak progress?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how does an outbreak progress?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long does a pandemic last?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long does it take for a pandemic to end?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long has the pandemic been going on",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long has this been going on for?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long will a pandemic last?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long will the be a pandemic?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long will the coronavirus outbreak last?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how long will this outbreak last?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how many months can we expect this to last?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how many months has coronavirus been going on for?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how many months will this continue?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how many months will this pandemic last?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how will covid-19 progress over time?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how will the virus change over time?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how will the virus mutate?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "how will things have changes in a year?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "is a virus better in summer?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "is corona worse in winter?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "what will be happening in a months time",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "what will be happening in a week",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "what will happen next year?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "when can we go back to normal?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "when will life go back to normal?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "when will things go back to normal?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "when will this be over?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will corona ever go away?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will it get worse again in the autumn?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will the outbreak be over soon?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will the pandemic last years?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will the situation change in a few weeks?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will the situation have changed in a month?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will the virus go away?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will things be different in a month?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will things be different next week?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will things improve in the spring?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will things improve in the summer?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will this continue into autumn?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will this continue into next winter?",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "will this continue into next year",
-        "intent": "faq_timescale",
+        "intent": "faqtimescale",
         "entities": []
       },
       {
         "text": "can coronavirus spread by coughing?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "can coronavirus survive on skin?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "can covid get into my eyes?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "can sneezing spread coronavirus?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "can you catch corona from an unclean surface?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "can you catch coronavirus from another person?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "can you catch the virus from dirty surfaces?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "could i pass corona virus onto someone else?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "does coughing spread corona?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "does coughing spread covid-19?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "does does a virus spread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how can i avoid covid-19?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how can i avoid getting coronavirus?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how can i protect myself?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how contagious is it?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how did corona become so widespread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how did covid-19 become so widespread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how did it become so widespread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how did this disease become so widespread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how do i catch corona?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how do viruses become widespread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how do we stop people getting coronavirus?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how do we stop people getting it?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how do we stop people getting sick?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how do you catch coronavirus",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how do you catch it?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how does covid 19 spread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how does covid pass from person to person?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how does covid spread from person to person?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how does covid-19 spread between between?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how does covid-19 spread from one person to another?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how does covid-19 spread?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how does the virus spread",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how is it so contagious?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how long can the virus remain on surfaces?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how long does coronavirus stay on surfaces?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how long does it stay on skin?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how long does the virus stay on your hands face?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how long does the virus stay on your hands?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "how would i catch the virus from someone else?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "i want to avoid getting covid, what should i do?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "is corona virus contagious?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "is it contagious?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "is this disease very contagious?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "what should i do to avoid getting coronavirus?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "what should i do to avoid getting covid?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "what should i do to protect myself from catching covid19?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "what should i do to protect myself?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "why can't i touch my face with my hands?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "why do you have to clean surfaces?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "why is skin-on-skin contact to be avoided?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "why shouldn't i touch my eyes?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "why shouldn't i touch my face?",
-        "intent": "faq_spread",
+        "intent": "faqspread",
         "entities": []
       },
       {
         "text": "can soap help keep the virus off my hands?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "can soap help with corona virus?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "do i need to use hand sanitiser?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "how does hand-sanitiser work?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "how does soap help keep the virus away?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "how long should i hand-wash for?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "how often should i wash my hands",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "how should i wash my hands",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "should i use soap or hand sanitiser?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what amount of alcohol is needed in hand gel?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what are good methods for handwashing?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what are the handwashing techniques",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what are the hand-washing techniques?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what are the instructions for hand-washing",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what are the techniques for hand washing?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what is important about hand-washing?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what is the guidance for handwashing",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "what strength percentage of alcohol is required for hand gel to work?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "when should i wash my hands",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "why do i need to use soap?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "why do i need to wash my hands",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "why does soap help with containing covid 19?",
-        "intent": "faq_handwashing",
+        "intent": "faqhandwashing",
         "entities": []
       },
       {
         "text": "can we prevent spikes in the infection rate?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "can we reduce the number of cases?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how can you slow the infection?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how do we flatten the curve",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how do we prevent spikes in the number of infected people?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how do we reduce the number of cases?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how does health care capacity relate to the curve?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how does healthcare capacity relate to the curve",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how fast can it spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how fast is covid-19 spreading?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how quickly can it spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how quickly could corona virus spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how quickly could the health service be overwhelmed?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how quickly could this get out of control?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how quickly is it spreading?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how quickly should coronavirus spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how quickly will it spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "reducing the frequency of cases",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "slow the rate of infection",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what are spikes",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what are spikes and why do they happen?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what are spikes and why should we try to slow them?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what does a spike in cases look like?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what does it mean the flatten the curve",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what happens when there's a surge in cases?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what happens when you reduce the number of cases?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is a fast spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is a slow spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is flattening the curve",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is healthcare system capacity",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is infection rate",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is the curve of cases",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is the difference between a fast spread and a slow spread?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "what is the difference between and fast and slow pandemic?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "when do spikes in infection rate occur?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "why are there spikes in the frequency of cases",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "why do infections suddenly spike",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "why do you need to slow the infection",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "why should we try to slow the infection?",
-        "intent": "faq_curve",
+        "intent": "faqcurve",
         "entities": []
       },
       {
         "text": "how are viruses formed?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how are viruses structured?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how do viruses behave?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how do viruses happen?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how do viruses work?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how does a pandemic work?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how does an epidemic work?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how does covid work?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how is a virus structured?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how is the corona virus structured?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "is covid-19 a virus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what are corona viruses?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what are viruses?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what do they mean by \"pandemic\"",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what do viruses look like?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does \"pandemic\" mean?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does a virus look like?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does an outbreak mean?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does covid mean?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does covid stand for?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does covid19 mean?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does covid-19 mean?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does covid19 stand for?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does it mean if we have a pandemic?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does it mean if we have an outbreak?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what does outbreak mean?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is a pandemic?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is a virus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is an epidemic?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is corona?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is covid-19",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is pandemic",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is the corona virus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is the difference between and epidemic and a pandemic?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is the full name of coronavirus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is the full name of covid-19?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is the full name of the virus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is the structure of a virus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what is the structure of coronavirus",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what kind of disease is corona?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "what kind of illness is corona virus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "why is it called corona virus?",
-        "intent": "faq_whatisit",
+        "intent": "faqwhatisit",
         "entities": []
       },
       {
         "text": "how did it start?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "how did the covid outbreak start?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "how did the outbreak start?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "what caused corona virus?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "what caused covid-19",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "what caused covid-19 to happen?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "what caused the corona outbreak?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "when did it start?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "when did the outbreak start?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "when was corona virus detected?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "when was coronavirus identified?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "when was it detected?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "where did it come from?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "where did the coronavirus come from?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "where was the virus first detected?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "why did corona happen?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       },
       {
         "text": "why did this happen?",
-        "intent": "faq_origin",
+        "intent": "faqorigin",
         "entities": []
       }
     ]

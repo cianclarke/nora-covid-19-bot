@@ -44,39 +44,39 @@ stories:
   - action: action_faq_distancing
 - story: faq spread happy
   steps:
-  - intent: faq_spread
-  - action: utter_faq_spread
+  - intent: faqspread
+  - action: utter_faqspread
   - action: utter_did_that_help
   - intent: affirm
   - action: utter_happy
 - story: faq spread sad
   steps:
-  - intent: faq_spread
-  - action: action_faq_spread
+  - intent: faqspread
+  - action: action_faqspread
   - action: utter_did_that_help
   - intent: deny
   - action: utter_sad
 - story: faq symptoms happy
   steps:
-  - intent: faq_symptoms
+  - intent: faqsymptoms
   - action: utter_symptoms
   - action: utter_did_that_help
   - intent: affirm
   - action: utter_happy
 - story: faq symptoms sad
   steps:
-  - intent: faq_symptoms
-  - action: action_faq_symptoms
+  - intent: faqsymptoms
+  - action: action_faqsymptoms
   - action: utter_did_that_help
   - intent: deny
   - action: utter_sad
 - story: faq status
   steps:
-  - intent: faq_status
-  - action: action_faq_status
+  - intent: faqstatus
+  - action: action_faqstatus
 - story: more faq status
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: faq_status
-  - action: action_faq_status
+  - intent: faqstatus
+  - action: action_faqstatus

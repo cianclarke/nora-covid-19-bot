@@ -101,7 +101,7 @@ nlu:
     - why should i quarantine myself?
     - why should most people isolate?
     - will quarantine work?
-- intent: faq_symptoms
+- intent: faqsymptoms
   examples: |
     - am i going to die?
     - am i going to need hospital treatment?
@@ -323,7 +323,7 @@ nlu:
     - who is available while staff are working from home?
     - who is available while working from home?
     - who is still working?
-- intent: faq_testing
+- intent: faqtesting
   examples: |
     - are tests available?
     - are there tests to detect corona?
@@ -344,7 +344,7 @@ nlu:
     - where are test available?
     - who are they testing for corona virus right now?
     - who can get tested?
-- intent: faq_supplies
+- intent: faqsupplies
   examples: |
     - are the supermarkets going to run out of food?
     - are the supermarkets going to run out of supplies?
@@ -379,7 +379,7 @@ nlu:
     - why are people panic-buying?
     - will shortages be a problem?
     - will supply chains be affected
-- intent: faq_flu
+- intent: faqflu
   examples: |
     - are the symptoms like influenza?
     - how does corona virus compare with a flu outbreak?
@@ -404,7 +404,7 @@ nlu:
     - is this similar to swine flu?
     - isn't it just a cold?
     - isn't it just a really bad cold?
-- intent: faq_howmany
+- intent: faqhowmany
   examples: |
     - are there a lot of cases right now?
     - does the country have a lot of cases?
@@ -466,7 +466,7 @@ nlu:
     - what will you do if staff are unwell?
     - what will you do so the company can recover more quickly?
     - will you business recover?
-- intent: company_deliveries
+- intent: companydeliveries
   examples: |
     - are you still able to deliver goods?
     - are you still able to deliver products by post during the pandemic?
@@ -488,7 +488,7 @@ nlu:
     - how will coronavirus affect your home delivery?
     - is corona virus affecting your delivery channels?
     - will covid affect your home delivery services?
-- intent: faq_masks
+- intent: faqmasks
   examples: |
     - can a mask protect me?
     - can covering my face protect me?
@@ -510,7 +510,7 @@ nlu:
     - why is everyone wearing face-masks?
     - will a mask protect me from the virus
     - will it help to cover my face?
-- intent: faq_timescale
+- intent: faqtimescale
   examples: |
     - can a virus change over time?
     - can covid-19 mutate over time?
@@ -559,7 +559,7 @@ nlu:
     - will this continue into autumn?
     - will this continue into next winter?
     - will this continue into next year
-- intent: faq_spread
+- intent: faqspread
   examples: |
     - can coronavirus spread by coughing?
     - can coronavirus survive on skin?
@@ -614,7 +614,7 @@ nlu:
     - why is skin-on-skin contact to be avoided?
     - why shouldn't i touch my eyes?
     - why shouldn't i touch my face?
-- intent: faq_handwashing
+- intent: faqhandwashing
   examples: |
     - can soap help keep the virus off my hands?
     - can soap help with corona virus?
@@ -638,7 +638,7 @@ nlu:
     - why do i need to use soap?
     - why do i need to wash my hands
     - why does soap help with containing covid 19?
-- intent: faq_curve
+- intent: faqcurve
   examples: |
     - can we prevent spikes in the infection rate?
     - can we reduce the number of cases?
@@ -679,7 +679,7 @@ nlu:
     - why do infections suddenly spike
     - why do you need to slow the infection
     - why should we try to slow the infection?
-- intent: faq_whatisit
+- intent: faqwhatisit
   examples: |
     - how are viruses formed?
     - how are viruses structured?
@@ -723,7 +723,7 @@ nlu:
     - what kind of disease is corona?
     - what kind of illness is corona virus?
     - why is it called corona virus?
-- intent: faq_origin
+- intent: faqorigin
   examples: |
     - how did it start?
     - how did the covid outbreak start?
